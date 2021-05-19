@@ -11,3 +11,7 @@ https://assetstore.unity.com/packages/tools/utilities/b-zier-path-creator-136082
 
 Playable WebGL build of my game:
 https://simonnoergaard1.github.io/GMDProject/
+
+
+Controls:
+WASD
