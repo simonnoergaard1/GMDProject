@@ -15,3 +15,5 @@ https://simonnoergaard1.github.io/GMDProject/
 
 Controls:
 WASD
+
+TESTER
